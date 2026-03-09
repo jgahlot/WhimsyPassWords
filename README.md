@@ -2,7 +2,7 @@
 
 A whimsical RPG-themed password generator built with **Flask** and vanilla JavaScript.
 
-![Screenshot](static/passwordUI.png)
+![Screenshot](static/UIPassword Generator.jpg)
 
 ## Features
 
